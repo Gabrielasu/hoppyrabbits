@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Forest Rabbit Adventure
 
 A beautiful 3D game where you play as a rabbit exploring a magical forest, collecting items, and avoiding predators.
@@ -89,3 +90,6 @@ The game is built with modern web technologies and follows a component-based arc
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+=======
+# hoppyrabbits
+>>>>>>> 0577618a7561343f74e11ef158a0d6c17a824571
